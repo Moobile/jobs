@@ -62,7 +62,6 @@ jovens e como a 9ª em TI com maior escolaridade.  -->
 - Local: [Av. Graça Aranha, 128, 2º andar - Centro - Rio de Janeiro](https://maps.google.com.br/maps?q=Av.+Gra%C3%A7a+Aranha,+128+-+Centro+-+Rio+de+Janeiro&ie=UTF8&hnear=Av.+Gra%C3%A7a+Aranha,+128+-+Centro,+Rio+de+Janeiro,+20030-000&gl=br&t=m&z=16).
 
 
-
 ## Contato
 
 Caso deseje se canditar nos envie um *pull request* nesse repositório.
