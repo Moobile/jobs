@@ -17,7 +17,8 @@ aqui é seu lugar e nós queremos saber mais sobre você :)
 
 ## Atividades Principais
 
-- Desenvolvimento de aplicativos utilizando o SDK Android <!--- saber IOS é um grande diferencial -->
+- Desenvolvimento de aplicativos utilizando o SDK Android 
+<!--- saber IOS é um grande diferencial -->
 - Ajudar no desenvolvimento de plataformas auxiliares (App webs, geradoras de conteúdo para os aplicativos);
 - Participar do processo de concepção de arquitetura de novos aplicativos;
 
