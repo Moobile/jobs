@@ -4,11 +4,11 @@
 
 # Desenvolvedor Android
 
-Se você curte programar para plataforma Android 
-Se você acima de tudo curte desenvolvimento focado em plataformas móveis, independente da linguagem
-Se você é apaixonado por desenvolvimento de software
-Se você curte criar produtos
-Se você não se imagina fazendo outra coisa da sua vida profissional além de escrever código 
+Se você curte programar para plataforma Android <br/>
+Se você acima de tudo curte desenvolvimento focado em plataformas móveis, independente da linguagem <br/>
+Se você é apaixonado por desenvolvimento de software <br/>
+Se você curte criar produtos <br/>
+Se você não se imagina fazendo outra coisa da sua vida profissional além de escrever código <br/>
 Se você está procurando uma empresa inovadora com um ambiente de trabalho descontraído, democrático e divertido
 
 Aqui é seu lugar e nós queremos saber mais sobre você :)
