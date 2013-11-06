@@ -40,6 +40,8 @@ aqui é seu lugar e nós queremos saber mais sobre você :)
 
 ## Sobre a empresa
 
+- A Moobile possui um ambiente descontraido .... 
+
 - A Moobile, faz parte do grupo Innvent que tem como filosofia propor um lugar onde pessoas incríveis combinam suas competências para
   fazer inovação. 
   Contando com grande experiência em gestão e tecnologia, além
