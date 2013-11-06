@@ -47,8 +47,7 @@ aprendendo e interagindo diariamente. Temos todas as vantagens de ser pequenos e
 (graças à nossa investidora) o que faz com que nos concentremos no que importa: resolver os problemas das pessoas
 através da tecnologia.
 
-É uma missão difícil e esperamos que você venha nos ajudar a criar aplicações digitais que tenham impacto no mundo.
-
+É uma missão difícil e esperamos que você venha nos ajudar a criar aplicações digitais que tenham impacto no mundo.<br/>
 Topa?
 
 - A Moobile, faz parte do grupo Innvent que tem como filosofia propor um lugar onde pessoas incríveis combinam suas competências para
