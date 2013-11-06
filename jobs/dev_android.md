@@ -66,7 +66,7 @@ Topa?
 jovens e como a 9ª em TI com maior escolaridade.  -->
 
 <p align="center">
-  <a href="images/gptw-materia.png?raw=true" target="_blank"><img src="images/gptw.png" width="571" height="375" alt="GPTW"></a>
+  <a href="gptw-materia.png" target="_blank"><img src="gptw.png" width="571" height="375" alt="GPTW"></a>
 </p>
 
 - Local: [Av. Graça Aranha, 128, 2º andar - Centro - Rio de Janeiro](https://maps.google.com.br/maps?q=Av.+Gra%C3%A7a+Aranha,+128+-+Centro+-+Rio+de+Janeiro&ie=UTF8&hnear=Av.+Gra%C3%A7a+Aranha,+128+-+Centro,+Rio+de+Janeiro,+20030-000&gl=br&t=m&z=16).
