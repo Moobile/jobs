@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://1.gravatar.com/avatar/4ff5dbb6d8e199ee41931b80c34ce132" alt="Moobile"/>
+  <img src="moobile-android.png"/>
 </p>
 
 # Desenvolvedor Android
