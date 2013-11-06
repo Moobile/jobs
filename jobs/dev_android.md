@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="moobile-android.png"/>
+  <img src="moobile-android_m.png"/>
 </p>
 
 # Desenvolvedor Android
