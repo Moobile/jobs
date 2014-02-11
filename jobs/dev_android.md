@@ -27,7 +27,6 @@ Aqui é seu lugar e nós queremos saber mais sobre você :)
 - Experiência em desenvolvoimento Java utilizando SDK Android
 - Comunicativo e com fácil relacionamento;
 - <strong>Apaixonado por desenvolvimento de software.</strong>
-- Já ter publicado ao menos uma app na Android Market
 - Experiência com Git
 
 <!--- Ser um bom jogador de CS ou FIFA é quase um requisito -->
@@ -35,6 +34,7 @@ Aqui é seu lugar e nós queremos saber mais sobre você :)
 ## Diferenciais
 
 - Experiência com outra linguagem de programação;
+- Já ter publicado ao menos uma app na Android Market
 - Experiência com desenvolvimento Web;
 - Habilidades em FIFA e CS, e conhecimento de cervejas.
 
